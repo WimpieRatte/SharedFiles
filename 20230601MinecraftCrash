@@ -1,0 +1,1124 @@
+Prism Launcher version: 6.3
+
+
+Launched instance in offline mode
+
+Minecraft folder is:
+C:/Users/asseb/AppData/Roaming/PrismLauncher/instances/Modrinth Tech Rat(1)/.minecraft
+
+
+Java path is:
+C:/Program Files/Common Files/Oracle/Java/javapath/javaw.exe
+
+
+Checking Java version...
+Java is version 17.0.5, using 64 (amd64) architecture, from Oracle Corporation.
+
+
+Main Class:
+  net.fabricmc.loader.impl.launch.knot.KnotClient
+
+Native path:
+  C:/Users/asseb/AppData/Roaming/PrismLauncher/instances/Modrinth Tech Rat(1)/natives
+
+Traits:
+traits FirstThreadOnMacOS
+traits XR:Initial
+
+Libraries:
+  C:/Users/asseb/AppData/Roaming/PrismLauncher/libraries/org/lwjgl/lwjgl-glfw-natives-windows-x86/3.3.1/lwjgl-glfw-natives-windows-x86-3.3.1.jar
+  C:/Users/asseb/AppData/Roaming/PrismLauncher/libraries/org/lwjgl/lwjgl-glfw-natives-windows/3.3.1/lwjgl-glfw-natives-windows-3.3.1.jar
+  C:/Users/asseb/AppData/Roaming/PrismLauncher/libraries/org/lwjgl/lwjgl-glfw/3.3.1/lwjgl-glfw-3.3.1.jar
+  C:/Users/asseb/AppData/Roaming/PrismLauncher/libraries/org/lwjgl/lwjgl-jemalloc-natives-windows-x86/3.3.1/lwjgl-jemalloc-natives-windows-x86-3.3.1.jar
+  C:/Users/asseb/AppData/Roaming/PrismLauncher/libraries/org/lwjgl/lwjgl-jemalloc-natives-windows/3.3.1/lwjgl-jemalloc-natives-windows-3.3.1.jar
+  C:/Users/asseb/AppData/Roaming/PrismLauncher/libraries/org/lwjgl/lwjgl-jemalloc/3.3.1/lwjgl-jemalloc-3.3.1.jar
+  C:/Users/asseb/AppData/Roaming/PrismLauncher/libraries/org/lwjgl/lwjgl-natives-windows-x86/3.3.1/lwjgl-natives-windows-x86-3.3.1.jar
+  C:/Users/asseb/AppData/Roaming/PrismLauncher/libraries/org/lwjgl/lwjgl-natives-windows/3.3.1/lwjgl-natives-windows-3.3.1.jar
+  C:/Users/asseb/AppData/Roaming/PrismLauncher/libraries/org/lwjgl/lwjgl-openal-natives-windows-x86/3.3.1/lwjgl-openal-natives-windows-x86-3.3.1.jar
+  C:/Users/asseb/AppData/Roaming/PrismLauncher/libraries/org/lwjgl/lwjgl-openal-natives-windows/3.3.1/lwjgl-openal-natives-windows-3.3.1.jar
+  C:/Users/asseb/AppData/Roaming/PrismLauncher/libraries/org/lwjgl/lwjgl-openal/3.3.1/lwjgl-openal-3.3.1.jar
+  C:/Users/asseb/AppData/Roaming/PrismLauncher/libraries/org/lwjgl/lwjgl-opengl-natives-windows-x86/3.3.1/lwjgl-opengl-natives-windows-x86-3.3.1.jar
+  C:/Users/asseb/AppData/Roaming/PrismLauncher/libraries/org/lwjgl/lwjgl-opengl-natives-windows/3.3.1/lwjgl-opengl-natives-windows-3.3.1.jar
+  C:/Users/asseb/AppData/Roaming/PrismLauncher/libraries/org/lwjgl/lwjgl-opengl/3.3.1/lwjgl-opengl-3.3.1.jar
+  C:/Users/asseb/AppData/Roaming/PrismLauncher/libraries/org/lwjgl/lwjgl-stb-natives-windows-x86/3.3.1/lwjgl-stb-natives-windows-x86-3.3.1.jar
+  C:/Users/asseb/AppData/Roaming/PrismLauncher/libraries/org/lwjgl/lwjgl-stb-natives-windows/3.3.1/lwjgl-stb-natives-windows-3.3.1.jar
+  C:/Users/asseb/AppData/Roaming/PrismLauncher/libraries/org/lwjgl/lwjgl-stb/3.3.1/lwjgl-stb-3.3.1.jar
+  C:/Users/asseb/AppData/Roaming/PrismLauncher/libraries/org/lwjgl/lwjgl-tinyfd-natives-windows-x86/3.3.1/lwjgl-tinyfd-natives-windows-x86-3.3.1.jar
+  C:/Users/asseb/AppData/Roaming/PrismLauncher/libraries/org/lwjgl/lwjgl-tinyfd-natives-windows/3.3.1/lwjgl-tinyfd-natives-windows-3.3.1.jar
+  C:/Users/asseb/AppData/Roaming/PrismLauncher/libraries/org/lwjgl/lwjgl-tinyfd/3.3.1/lwjgl-tinyfd-3.3.1.jar
+  C:/Users/asseb/AppData/Roaming/PrismLauncher/libraries/org/lwjgl/lwjgl/3.3.1/lwjgl-3.3.1.jar
+  C:/Users/asseb/AppData/Roaming/PrismLauncher/libraries/com/mojang/logging/1.0.0/logging-1.0.0.jar
+  C:/Users/asseb/AppData/Roaming/PrismLauncher/libraries/com/mojang/blocklist/1.0.10/blocklist-1.0.10.jar
+  C:/Users/asseb/AppData/Roaming/PrismLauncher/libraries/com/mojang/patchy/2.2.10/patchy-2.2.10.jar
+  C:/Users/asseb/AppData/Roaming/PrismLauncher/libraries/com/github/oshi/oshi-core/5.8.5/oshi-core-5.8.5.jar
+  C:/Users/asseb/AppData/Roaming/PrismLauncher/libraries/net/java/dev/jna/jna/5.10.0/jna-5.10.0.jar
+  C:/Users/asseb/AppData/Roaming/PrismLauncher/libraries/net/java/dev/jna/jna-platform/5.10.0/jna-platform-5.10.0.jar
+  C:/Users/asseb/AppData/Roaming/PrismLauncher/libraries/org/slf4j/slf4j-api/1.8.0-beta4/slf4j-api-1.8.0-beta4.jar
+  C:/Users/asseb/AppData/Roaming/PrismLauncher/libraries/org/apache/logging/log4j/log4j-slf4j18-impl/2.17.1/log4j-slf4j18-impl-2.17.1.jar
+  C:/Users/asseb/AppData/Roaming/PrismLauncher/libraries/com/ibm/icu/icu4j/70.1/icu4j-70.1.jar
+  C:/Users/asseb/AppData/Roaming/PrismLauncher/libraries/com/mojang/javabridge/1.2.24/javabridge-1.2.24.jar
+  C:/Users/asseb/AppData/Roaming/PrismLauncher/libraries/net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4.jar
+  C:/Users/asseb/AppData/Roaming/PrismLauncher/libraries/io/netty/netty-common/4.1.77.Final/netty-common-4.1.77.Final.jar
+  C:/Users/asseb/AppData/Roaming/PrismLauncher/libraries/io/netty/netty-buffer/4.1.77.Final/netty-buffer-4.1.77.Final.jar
+  C:/Users/asseb/AppData/Roaming/PrismLauncher/libraries/io/netty/netty-codec/4.1.77.Final/netty-codec-4.1.77.Final.jar
+  C:/Users/asseb/AppData/Roaming/PrismLauncher/libraries/io/netty/netty-handler/4.1.77.Final/netty-handler-4.1.77.Final.jar
+  C:/Users/asseb/AppData/Roaming/PrismLauncher/libraries/io/netty/netty-resolver/4.1.77.Final/netty-resolver-4.1.77.Final.jar
+  C:/Users/asseb/AppData/Roaming/PrismLauncher/libraries/io/netty/netty-transport/4.1.77.Final/netty-transport-4.1.77.Final.jar
+  C:/Users/asseb/AppData/Roaming/PrismLauncher/libraries/io/netty/netty-transport-native-unix-common/4.1.77.Final/netty-transport-native-unix-common-4.1.77.Final.jar
+  C:/Users/asseb/AppData/Roaming/PrismLauncher/libraries/io/netty/netty-transport-classes-epoll/4.1.77.Final/netty-transport-classes-epoll-4.1.77.Final.jar
+  C:/Users/asseb/AppData/Roaming/PrismLauncher/libraries/com/google/guava/failureaccess/1.0.1/failureaccess-1.0.1.jar
+  C:/Users/asseb/AppData/Roaming/PrismLauncher/libraries/com/google/guava/guava/31.0.1-jre/guava-31.0.1-jre.jar
+  C:/Users/asseb/AppData/Roaming/PrismLauncher/libraries/org/apache/commons/commons-lang3/3.12.0/commons-lang3-3.12.0.jar
+  C:/Users/asseb/AppData/Roaming/PrismLauncher/libraries/commons-io/commons-io/2.11.0/commons-io-2.11.0.jar
+  C:/Users/asseb/AppData/Roaming/PrismLauncher/libraries/commons-codec/commons-codec/1.15/commons-codec-1.15.jar
+  C:/Users/asseb/AppData/Roaming/PrismLauncher/libraries/com/mojang/brigadier/1.0.18/brigadier-1.0.18.jar
+  C:/Users/asseb/AppData/Roaming/PrismLauncher/libraries/com/mojang/datafixerupper/5.0.28/datafixerupper-5.0.28.jar
+  C:/Users/asseb/AppData/Roaming/PrismLauncher/libraries/com/google/code/gson/gson/2.8.9/gson-2.8.9.jar
+  C:/Users/asseb/AppData/Roaming/PrismLauncher/libraries/com/mojang/authlib/3.11.49/authlib-3.11.49.jar
+  C:/Users/asseb/AppData/Roaming/PrismLauncher/libraries/org/apache/commons/commons-compress/1.21/commons-compress-1.21.jar
+  C:/Users/asseb/AppData/Roaming/PrismLauncher/libraries/org/apache/httpcomponents/httpclient/4.5.13/httpclient-4.5.13.jar
+  C:/Users/asseb/AppData/Roaming/PrismLauncher/libraries/commons-logging/commons-logging/1.2/commons-logging-1.2.jar
+  C:/Users/asseb/AppData/Roaming/PrismLauncher/libraries/org/apache/httpcomponents/httpcore/4.4.14/httpcore-4.4.14.jar
+  C:/Users/asseb/AppData/Roaming/PrismLauncher/libraries/it/unimi/dsi/fastutil/8.5.6/fastutil-8.5.6.jar
+  C:/Users/asseb/AppData/Roaming/PrismLauncher/libraries/org/apache/logging/log4j/log4j-api/2.17.1/log4j-api-2.17.1.jar
+  C:/Users/asseb/AppData/Roaming/PrismLauncher/libraries/org/apache/logging/log4j/log4j-core/2.17.1/log4j-core-2.17.1.jar
+  C:/Users/asseb/AppData/Roaming/PrismLauncher/libraries/com/mojang/text2speech/1.13.9/text2speech-1.13.9.jar
+  C:/Users/asseb/AppData/Roaming/PrismLauncher/libraries/com/mojang/text2speech-natives-windows/1.13.9/text2speech-natives-windows-1.13.9.jar
+  C:/Users/asseb/AppData/Roaming/PrismLauncher/libraries/net/fabricmc/intermediary/1.19.2/intermediary-1.19.2.jar
+  C:/Users/asseb/AppData/Roaming/PrismLauncher/libraries/net/fabricmc/tiny-mappings-parser/0.3.0+build.17/tiny-mappings-parser-0.3.0+build.17.jar
+  C:/Users/asseb/AppData/Roaming/PrismLauncher/libraries/net/fabricmc/sponge-mixin/0.12.5+mixin.0.8.5/sponge-mixin-0.12.5+mixin.0.8.5.jar
+  C:/Users/asseb/AppData/Roaming/PrismLauncher/libraries/net/fabricmc/tiny-remapper/0.8.2/tiny-remapper-0.8.2.jar
+  C:/Users/asseb/AppData/Roaming/PrismLauncher/libraries/net/fabricmc/access-widener/2.1.0/access-widener-2.1.0.jar
+  C:/Users/asseb/AppData/Roaming/PrismLauncher/libraries/org/ow2/asm/asm/9.5/asm-9.5.jar
+  C:/Users/asseb/AppData/Roaming/PrismLauncher/libraries/org/ow2/asm/asm-analysis/9.5/asm-analysis-9.5.jar
+  C:/Users/asseb/AppData/Roaming/PrismLauncher/libraries/org/ow2/asm/asm-commons/9.5/asm-commons-9.5.jar
+  C:/Users/asseb/AppData/Roaming/PrismLauncher/libraries/org/ow2/asm/asm-tree/9.5/asm-tree-9.5.jar
+  C:/Users/asseb/AppData/Roaming/PrismLauncher/libraries/org/ow2/asm/asm-util/9.5/asm-util-9.5.jar
+  C:/Users/asseb/AppData/Roaming/PrismLauncher/libraries/net/fabricmc/fabric-loader/0.14.21/fabric-loader-0.14.21.jar
+  C:/Users/asseb/AppData/Roaming/PrismLauncher/libraries/com/mojang/minecraft/1.19.2/minecraft-1.19.2-client.jar
+
+Native libraries:
+
+Mods:
+  [✔] (Fabric)GlowInkPlus-1.19.x-1.2.0
+  [✔] ad_astra-fabric-1.19.2-1.12.6
+  [✔] AdaptiveTooltips-1.0.1-fabric-1.19.2
+  [✔] AdditionalAdditions-5.1.0
+  [✔] advancementinfo-1.19.1-fabric0.58.5-1.3.1
+  [✔] AdvancementPlaques-1.19.2-fabric-1.4.6
+  [✔] advdebug-2.3.0
+  [✔] AirHop-v4.2.1-1.19.2-Fabric
+  [✔] amecs-1.3.8+mc.1.19-rc2
+  [✔] animal_feeding_trough-1.0.3+1.19.2
+  [✔] antighost-1.19.1-fabric0.58.5-1.1.5
+  [✔] appleskin-fabric-mc1.19-2.4.1
+  [✔] architectury-6.5.85-fabric
+  [✔] ArmorStatues-v4.0.4-1.19.2-Fabric
+  [✔] artifacts-7.1.1+fabric
+  [✔] auditory-0.0.4-1.19.x
+  [✔] autohud-3.2+1.19.1
+  [✔] automobility-0.4.1+1.19.2-fabric
+  [✔] BagOfHolding-v4.1.6-1.19.2-Fabric
+  [✔] balm-fabric-1.19.2-4.5.7
+  [✔] BarteringStation-v4.0.3-1.19.2-Fabric
+  [✔] BasicShields-1.4.0-1.19.2
+  [✔] bclib-2.1.6
+  [✔] beetlebox-1.0.3
+  [✔] better_climbing-1.1.0-FABRIC
+  [✔] BetterAnimationsCollection-v4.0.5-1.19.2-Fabric
+  [✔] bettercombat-fabric-1.7.1+1.19
+  [✔] better-end-2.1.5
+  [✔] BetterF3-4.0.0-Fabric-1.19.2
+  [✔] betterladdersmod-0.0.1-1.19.x-No-3D-Model
+  [✔] BetterMod-1.4.1
+  [✔] better-nether-7.1.3
+  [✔] BetterRecipes-1.3.0
+  [✔] betterstats-2.8.1+1.19.2
+  [✔] BiomeParticleWeather-v4.0.5-1.19.2-Fabric
+  [✔] BlockRunner-v4.2.2-1.19.2-Fabric
+  [✔] botarium-fabric-1.19.2-1.8.2
+  [✔] brb-1.6.0-fabric
+  [✔] BridgingMod-1.19.3-1.2.0
+  [✔] bydesign-1.0.3
+  [✔] CameraOverhaul-1.4.0-fabric-universal
+  [✔] cammies-minecart-tweaks-1.7
+  [✔] Campanion-fabric-1.19.2-4.1.2+fabric
+  [✔] cardinal-components-api-5.0.2
+  [✔] carryon-fabric-1.19.2-2.0.5.11
+  [✔] chalk-2.2.0+1.19
+  [✔] chat_heads-0.10.14-fabric-1.19.2
+  [✔] cherishedworlds-fabric-6.0.5+1.19.4
+  [✔] chipped-fabric-1.19.2-2.1.5
+  [✔] clickthrough-1.19.1-fabric0.58.5-0.4
+  [✔] cloth-config-8.2.88-fabric
+  [✔] cloud-boots-1.19.2-fabric-2.2.1
+  [✔] collective-1.19.2-6.53
+  [✔] combatroll-fabric-1.1.5+1.19
+  [✔] compact_storage_fabric-5.0.3_1.19.2
+  [✔] CompletionistsIndex-v4.0.0-1.19.2-Fabric
+  [✔] cookingforblockheads-fabric-1.19.2-13.3.2
+  [✔] Couplings-1.9.1+1.19
+  [✔] craftingtweaks-fabric-1.19.2-15.1.7
+  [✔] crawl-0.11.1
+  [✔] create-fabric-0.5.0.i-1017+1.19.2
+  [✔] create-origins-v1.1.0-fabric-quilt+1.19.2
+  [✔] crittersandcompanions-fabric-1.19.2-1.0.3
+  [✔] ctm-refabricated-1.0.1+1.19
+  [✔] CullLessLeaves-1.0.6
+  [✔] DailyDad-fabric-1.19.2-1.4.2
+  [✔] defaultoptions-fabric-1.19-15.0.1
+  [✔] defensive-measures-1.0.2-beta-1.19.2
+  [✔] DetailArmorBar-2.6.2+1.19-fabric
+  [✔] diggusmaximus-1.5.8-1.19
+  [✔] DistinguishedPotions-v4.0.1-1.19.2-Fabric
+  [✔] dummmmmmy-1.19.2-1.7.2-fabric
+  [✔] DungeonsArise-1.19.2-2.1.54-fabric
+  [✔] dynamic-fps-2.2.0
+  [✔] DynamicSurroundings-RemasteredFabric-1.19-0.1.1
+  [✔] EasyAnvils-v4.0.11-1.19.2-Fabric
+  [✔] EasyShulkerBoxes-v4.4.1-1.19.2-Fabric
+  [✔] EchoChest-v4.0.2-1.19.2-Fabric
+  [✔] emi-1.0.1+1.19.2+fabric
+  [✔] emiffect-0.1.5+mc1.19.2
+  [✔] EMITrades-fabric-1.0.2+mc1.19.2
+  [✔] enchanting_table_descriptions-0.1.0+1.19
+  [✔] EnderZoology-v4.0.1-1.19.2-Fabric
+  [✔] energizedpower-1.19.2-1.7.0-fabric
+  [✔] enhanced_attack_indicator-1.0.4+1.19
+  [✔] enhancedblockentities-0.7.2+1.19.2
+  [✔] entity_texture_features_fabric_1.19.2-4.4.4
+  [✔] entityculling-fabric-1.6.1-mc1.19.2
+  [✔] EquipmentCompare-1.19-fabric-1.3.1
+  [✔] Essential-fabric_1-19
+  [✔] explosive-enhancement-1.1.0-1.19.2
+  [✔] ExtendedDrawers-1.4.0+mc.1.19.2
+  [✔] extrasounds-2.3.1+1.19.2-1.19.1
+  [✔] fabric-api-0.76.0+1.19.2
+  [✔] fabric-language-kotlin-1.9.4+kotlin.1.8.21
+  [✔] FabricShieldLib-1.7-1.19.2
+  [✔] fallingleaves-1.13.0+1.19.2
+  [✔] Fastload+1.18.2-1.20-3.4.0
+  [✔] fat-experience-orbs-2.0.1+1.18-fabric
+  [✔] ferritecore-5.0.3-fabric
+  [✔] ForgeConfigAPIPort-v4.2.11-1.19.2-Fabric
+  [✔] forgero-fabric-0.10.9+1.19.2
+  [✔] forgottengraves-1.19.2-3.0.5
+  [✔] FrozenLib-1.2.2-Fabric+1.19.2
+  [✔] geckolib-fabric-1.19-3.1.40
+  [✔] goml-1.6.4+1.19.2
+  [✔] goodall-1.2.0-fabric
+  [✔] gravelminer-fabric-1.19-13.0.0
+  [✔] grindstonesharpertools-1.19.2-3.1
+  [✔] guarding-1.19.2+2.2.0
+  [✔] handcrafted-fabric-1.19.2-2.0.6
+  [✔] hardcorerevival-fabric-1.19.2-9.0.2
+  [✔] hard-hat-steve-22-1.1
+  [✔] HeldItemTooltips-v4.0.0-1.19.2-Fabric
+  [✔] holdthatchunk-2.0.1+1.19
+  [✔] HorseBuff-1.19-2.0.1
+  [✔] iammusicplayer-fabric-mc1.19.2-3.19.9
+  [✔] icarus-1.14
+  [✔] Iceberg-1.19.1-fabric-1.0.46
+  [✔] idwtialsimmoedm-0.2.0+1.19
+  [✔] immersive_aircraft-0.4.2+1.19.2-fabric
+  [✔] immersive_armors-1.5.5+1.19.2-fabric
+  [✔] indium-1.0.9+mc1.19.2
+  [✔] interactic-0.1.11+1.19
+  [✔] InventoryProfilesNext-fabric-1.19-1.10.2
+  [✔] inventorytotem-1.19.2-3.0
+  [✔] iris-mc1.19.2-1.6.2
+  [✔] itemswapper-fabric-0.4.0-mc1.19.2
+  [✔] Jade-1.19.1-fabric-8.7.3
+  [✔] JadeAddons-1.19.2-fabric-3.1.0
+  [✔] jamlib-0.6.0+1.19
+  [✔] jingle-1.0.1
+  [✔] journeymap-1.19.2-5.9.7-fabric
+  [✔] kaffees_dual_ride-1.1.0
+  [✔] Kiwi-1.19.1-fabric-8.3.3
+  [✔] language-reload-1.5.6+1.19.2
+  [✔] lanterns-belong-on-walls-1.4.0-1.19
+  [✔] lazydfu-0.1.3
+  [✔] LeavesBeGone-v4.0.1-1.19.2-Fabric
+  [✔] Lexicon-1.19.3-(v.1.4.2a-fabric)
+  [✔] libIPN-fabric-1.19-3.0.1
+  [✔] lithium-fabric-mc1.19.2-0.11.1
+  [✔] LunaSlimes-1.6-1.19.2
+  [✔] mchalo-1.19.2-1.1.8
+  [✔] megaparrot-1.0.7-1.19.2
+  [✔] memoryleakfix-fabric-1.17+-1.0.0
+  [✔] midnightlib-fabric-1.0.0
+  [✔] MixinConflictHelper-1.2.0
+  [✔] mixintrace-1.1.1+1.17
+  [✔] MobLassos-v4.0.0-1.19.2-Fabric
+  [✔] Modern-Industrialization-1.6.8
+  [✔] modmenu-4.2.0-beta.2
+  [✔] moonlight-1.19.2-2.2.34-fabric
+  [✔] mythicmetals-0.17.3+1.19.2
+  [✔] naturalist-fabric-3.0.2-1.19.2
+  [✔] nbtcrafting-2.2.3+mc1.19
+  [✔] NetherChested-v4.0.4-1.19.2-Fabric
+  [✔] notebook-2.2.0-1.19-1.19.2
+  [✔] notenoughanimations-fabric-1.6.2-mc1.19.2
+  [✔] nyfsquiver-Fabric-0.5.1-1.19.2
+  [✔] Origins-1.19.2-1.7.1
+  [✔] Origins-Classes-1.19-1.4.0
+  [✔] otyacraftengine-fabric-mc1.19.2-3.2.0
+  [✔] owo-lib-0.9.3+1.19
+  [✔] oxidized-1.7.2
+  [✔] paladin-furniture-mod-1.1.1-fabric-mc1.19
+  [✔] PaperDoll-v4.0.0-1.19.2-Fabric
+  [✔] Patchouli-1.19.2-77-FABRIC
+  [✔] Paxi-1.19.2-Fabric-3.0.1
+  [✔] PickUpNotifier-v4.2.4-1.19.2-Fabric
+  [✔] piercing-paxels-1.0.7
+  [✔] Ping-Wheel-1.3.0-fabric-1.19.2
+  [✔] player-animation-lib-fabric-1.0.2
+  [✔] PlentyPlates-v4.0.0-1.19.2-Fabric
+  [✔] polymorph-fabric-0.46.1+1.19.2
+  [✔] PortableHole-v4.0.0-1.19.2-Fabric
+  [✔] portabletables-fabric-1.19.2-2.2
+  [✔] prefab-fabric-4.2.4
+  [✔] PresenceFootsteps-1.6.4
+  [✔] PuzzlesLib-v4.4.0-1.19.2-Fabric
+  [✔] quartz-elevator-2.1.5+1.19
+  [✔] rare-ice-0.5.0
+  [✔] reeses_sodium_options-1.4.9+mc1.19.2-build.67
+  [✔] replantingcrops-1.19.2-5.1
+  [✔] resourcefulconfig-fabric-1.19.2-1.0.20
+  [✔] resourcefullib-fabric-1.19.2-1.1.24
+  [✔] rottencreatures-fabric-1.19.2-1.0.1
+  [✔] scaffoldingdropsnearby-1.19.2-3.0
+  [✔] scannable-MC1.19.2-fabric-1.7.7+dc5ea09
+  [✔] scout-1.19.2-1.1.2
+  [✔] serversleep-datapack
+  [✔] sfcr-1.7.2-1.19.2
+  [✔] SimpleCopperPipes-1.13.1
+  [✔] SimplyHouses-1.1.2-1.19-fabric
+  [✔] simplyswords-fabric-1.43.0-1.19.2
+  [✔] skylorlib-1.5.1
+  [✔] SlotCycler-v4.0.3-1.19.2-Fabric
+  [✔] smoothboot-fabric-1.19-1.7.1
+  [✔] sodium-extra-0.4.16+mc1.19.2-build.90
+  [✔] sodium-fabric-mc1.19.2-0.4.4+build.18
+  [✔] spiderstpo-fabric-1.19.2-2.0.3
+  [✔] SpikySpikes-v4.0.8-1.19.2-Fabric
+  [✔] splashfox-1.1.0
+  [✔] spoornpacks-4.4-1.19.3
+  [✔] stack-to-nearby-chests-mc1.19.2-0.3.0
+  [✔] starlight-1.1.1+fabric.ae22326
+  [✔] stendhal-1.3.5-1.19
+  [✔] StylishEffects-v4.3.4-1.19.2-Fabric
+  [✔] subterrestrial-fabric-1.19.2-2.0.0
+  [✔] Super_Apple-2.0.5-1.19-1.19.2
+  [✔] switcheroo-1.0.9+1.19
+  [✔] Terralith_1.19.3_v2.3.8
+  [✔] theprinter-1.1.0+1.19
+  [✔] things-0.3.0+1.19
+  [✔] TinySkeletons-v4.2.2-1.19.2-Fabric
+  [✔] toms_storage_fabric-1.19-1.5.7
+  [✔] toomanybinds-0.3.3+1.19
+  [✔] totw_additions-1.2.3-1.19.x-fabric
+  [✔] Towns-and-Towers-v.1.10.1-FABRIC-1.19.2
+  [✔] trashslot-fabric-1.19-12.0.2
+  [✔] travelers-backpack-1.19.2-8.2.22
+  [✔] TravelersTitles-1.19.2-Fabric-3.1.0
+  [✔] trinkets-3.4.2
+  [✔] UniversalBoneMeal-v4.2.0-1.19.2-Fabric
+  [✔] VanitySlots-1.2.8
+  [✔] Variety_Aquatic-1.0.4.2
+  [✔] vc_gliders-1.0.2-fabric
+  [✔] villagerdeathmessages-1.19.2-3.1
+  [✔] visuality-0.5.6
+  [✔] voicechat-fabric-1.19.2-2.4.8
+  [✔] wanderingcollector-1.1.3+mc1.19
+  [✔] waystone_towers-1.19.2-FABRIC-1.0.8
+  [✔] weaponmaster-multi-fabric-1-19
+  [✔] WilderWild-2.0.2-Fabric+1.19.2
+  [✔] wraith-alloy-forgery-2.0.20+1.19
+  [✔] wraith-waystones-3.0.7+mc1.19.2
+  [✔] wso16-fabric-1.1
+  [✔] wunderreich-3.0.18
+  [✔] YetAnotherConfigLib-2.2.0-for-1.19.2
+  [✔] YungsApi-1.19.2-Fabric-3.8.9
+  [✔] YungsBetterDesertTemples-1.19.2-Fabric-2.2.2
+  [✔] YungsBetterDungeons-1.19.2-Fabric-3.2.1
+  [✔] YungsBetterMineshafts-1.19.2-Fabric-3.2.0
+  [✔] YungsBetterNetherFortresses-1.19.2-Fabric-1.0.5
+  [✔] YungsBetterOceanMonuments-1.19.2-Fabric-2.1.0
+  [✔] YungsBetterStrongholds-1.19.2-Fabric-3.2.0
+  [✔] YungsBridges-1.19.2-Fabric-3.1.0
+  [✔] YungsExtras-1.19.2-Fabric-3.1.0
+
+Params:
+  --username  --version 1.19.2 --gameDir C:/Users/asseb/AppData/Roaming/PrismLauncher/instances/Modrinth Tech Rat(1)/.minecraft --assetsDir C:/Users/asseb/AppData/Roaming/PrismLauncher/assets --assetIndex 1.19 --uuid  --accessToken  --userType  --versionType release
+
+Window size: 854 x 480
+
+Launcher: standard
+
+Java Arguments:
+[-XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump, -Xms512m, -Xmx8000m, -Duser.language=en]
+
+
+Minecraft process ID: 46588
+
+
+[16:05:54] [main/INFO]: Loading Minecraft 1.19.2 with Fabric Loader 0.14.21
+[16:05:54] [ForkJoinPool-1-worker-3/WARN]: Mod compact_storage uses the version 5.0.3_1.19.2 which isn't compatible with Loader's extended semantic version format (Could not parse version number component '3_1'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[16:05:54] [ForkJoinPool-1-worker-1/WARN]: Mod create uses the version 0.5.0.i-1017+1.19.2 which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'i'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[16:05:54] [ForkJoinPool-1-worker-11/WARN]: The mod "dungeons_arise" contains invalid entries in its mod json:
+- Unsupported root entry "credits" at line 12 column 12
+[16:05:54] [ForkJoinPool-1-worker-13/WARN]: Mod flywheel uses the version 0.6.8.a-4 which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'a'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[16:05:55] [ForkJoinPool-1-worker-4/WARN]: Mod lexicon uses the version 1.4.2a which isn't compatible with Loader's extended semantic version format (Could not parse version number component '2a'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[16:05:55] [ForkJoinPool-1-worker-6/WARN]: Mod nyfsquiver uses the version Fabric-0.5.1-1.19.2 which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'Fabric'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[16:05:55] [main/WARN]: Warnings were found!
+ - Mod 'Scannable' (scannable) 1.7.7+dc5ea09 recommends any version of tooltipfix, which is missing!
+	 - You should install any version of tooltipfix for the optimal experience.
+[16:05:55] [main/INFO]: Loading 432 mods:
+	- ad_astra 1.12.6
+	- adaptive-tooltips 1.0.1
+	- additionaladditions 5.1.0
+	- advancementinfo 1.19.1-fabric0.58.5-1.3.1
+	- advancementplaques 1.4.6
+	- advdebug 2.3.0
+	- agree 2.0.5-1.19-1.19.2
+	- airhop 4.2.1
+	- alloy_forgery 2.0.20+1.19
+	- amecs 1.3.8+mc.1.19-rc2
+	   \-- amecsapi 1.3.6+mc22w17a
+	- animal_feeding_trough 1.0.3+1.19.2
+	- antighost 1.19.1-fabric0.58.5-1.1.5
+	   \-- crowdin-translate 1.4+1.19
+	- appleskin 2.4.1+mc1.19
+	- architectury 6.5.85
+	- armorstatues 4.0.4
+	- artifacts 7.1.1+fabric
+	   |-- expandability 6.0.0
+	   \-- step-height-entity-attribute 1.0.0
+	- auditory 0.0.4-1.19.x
+	- autohud 3.2+1.19.1
+	- automobility 0.4.1+1.19.2-fabric
+	   \-- jsonem 0.1.2+1.19
+	- bagofholding 4.1.6
+	   \-- extensibleenums 4.0.0
+	- balm-fabric 4.5.7
+	- barteringstation 4.0.3
+	- basicshields 1.4.0-1.19.2
+	   \-- crowdin-translate 1.4+1.19
+	- bclib 2.1.6
+	- beetlebox 1.0.3
+	- better-recipes 1.3.0
+	- better_climbing 1.1.0
+	- betteranimationscollection 4.0.5
+	- bettercombat 1.7.1+1.19
+	- betterdeserttemples 1.19.2-Fabric-2.2.2
+	   \-- org_reflections_reflections 0.10.2
+	- betterdungeons 1.19.2-Fabric-3.2.1
+	- betterend 2.1.5
+	- betterf3 4.0.0
+	- betterfortresses 1.19.2-Fabric-1.0.5
+	- betterladdersmod 0.0.1-1.19.2
+	- bettermineshafts 1.19.2-Fabric-3.2.0
+	- bettermod 1.4.1
+	- betternether 7.1.3
+	- betteroceanmonuments 1.19.2-Fabric-2.1.0
+	- betterstats 2.8.1+1.19.2
+	   \-- tcdcommons 2.8+1.19.2
+	- betterstrongholds 1.19.2-Fabric-3.2.0
+	- blockrunner 4.2.2
+	- botarium 1.8.2
+	- brb 1.6.0
+	- bydesign 1.0.3
+	- cameraoverhaul 1.4.0-fabric-universal
+	- campanion 4.1.2+fabric
+	- cardinal-components 5.0.2
+	   |-- cardinal-components-base 5.0.2
+	   |-- cardinal-components-block 5.0.2
+	   |-- cardinal-components-chunk 5.0.2
+	   |-- cardinal-components-entity 5.0.2
+	   |-- cardinal-components-item 5.0.2
+	   |-- cardinal-components-level 5.0.2
+	   |-- cardinal-components-scoreboard 5.0.2
+	   \-- cardinal-components-world 5.0.2
+	- carryon 2.0.5.11
+	- chalk 2.2.0+1.19
+	- chat_heads 0.10.14
+	- cherishedworlds 6.0.5+1.19.4
+	- chipped 2.1.5
+	- clickthrough 1.19.1-fabric0.58.5-0.4
+	   |-- crowdin-translate 1.4+1.19
+	   \-- gbfabrictools 1.3.4+1.19
+	- cloth-config 8.2.88
+	   \-- cloth-basic-math 0.6.1
+	- cloudboots 1.19.2-fabric-2.2.1
+	- collective 6.53
+	- combatroll 1.1.5+1.19
+	- compact_storage 5.0.3_1.19.2
+	- completionistsindex 4.0.0
+	- cookingforblockheads 13.3.2
+	- copper_pipe 1.13.1
+	- couplings 1.9.1+1.19
+	   |-- com_electronwill_night-config_core 3.6.5
+	   \-- com_electronwill_night-config_toml 3.6.5
+	- craftingtweaks 15.1.7
+	- crawl 0.11.1
+	   \-- mm 2.3
+	- create 0.5.0.i-1017+1.19.2
+	   |-- com_google_code_findbugs_jsr305 3.0.2
+	   |-- flywheel 0.6.8.a-4
+	   |-- milk 1.0.51
+	   |    \-- dripstone_fluid_lib 2.0.1
+	   |-- porting_lib 2.1.954+1.19.2
+	   |    |-- forge_tags 3.0
+	   |    |-- porting_lib_accessors 2.1.954+1.19.2
+	   |    |-- porting_lib_attributes 2.1.954+1.19.2
+	   |    |-- porting_lib_base 2.1.954+1.19.2
+	   |    |-- porting_lib_common 2.1.954+1.19.2
+	   |    |-- porting_lib_constants 2.1.954+1.19.2
+	   |    |-- porting_lib_entity 2.1.954+1.19.2
+	   |    |-- porting_lib_extensions 2.1.954+1.19.2
+	   |    |-- porting_lib_fake_players 2.1.954+1.19.2
+	   |    |-- porting_lib_lazy_registration 2.1.954+1.19.2
+	   |    |-- porting_lib_loot 2.1.954+1.19.2
+	   |    |-- porting_lib_model_generators 2.1.954+1.19.2
+	   |    |-- porting_lib_model_loader 2.1.954+1.19.2
+	   |    |-- porting_lib_models 2.1.954+1.19.2
+	   |    |-- porting_lib_networking 2.1.954+1.19.2
+	   |    |-- porting_lib_obj_loader 2.1.954+1.19.2
+	   |    |-- porting_lib_transfer 2.1.954+1.19.2
+	   |    \-- serialization_hooks 0.3.26
+	   |-- reach-entity-attributes 2.3.0
+	   \-- registrate-fabric 1.1.57-MC1.19.2
+	- createorigins 1.1.0+1.19.2
+	- crittersandcompanions 1.19.2-1.0.3
+	- ctm 1.0.1+1.19
+	- cull-less-leaves 1.0.6
+	- dailydad 1.4.2
+	- defaultoptions 15.0.1
+	- detailab 2.6.2+1.19-fabric
+	- diggusmaximus 1.5.8-1.19
+	   \-- kyrptconfig 1.4.14-1.19
+	- distinguishedpotions 4.0.1
+	- dm 1.0.2-beta-1.19.2
+	- dsurround 0.1.1
+	   \-- org_openjdk_nashorn_nashorn-core 15.3
+	- dummmmmmy 1.19.2-1.7.2
+	- dungeons_arise 2.1.54
+	- dynamicfps 2.2.0
+	   \-- com_moandjiezana_toml_toml4j 0.7.2
+	- easyanvils 4.0.11
+	- easyshulkerboxes 4.4.1
+	- echochest 4.0.2
+	- emi 1.0.1+1.19.2+fabric
+	- emiffect 0.1.5+mc1.19.2
+	- emitrades 1.0.2+mc1.19.2
+	- enchanting-table-descriptions 0.1.0+1.19
+	- enderzoology 4.0.1
+	- energizedpower 1.19.2-1.7.0-fabric
+	   \-- team_reborn_energy 2.3.0
+	- enhanced_attack_indicator 1.0.4+1.19
+	- enhancedblockentities 0.7.2+1.19.2
+	   \-- spruceui 4.0.0+1.19
+	- entity_texture_features 4.4.4
+	   \-- org_apache_httpcomponents_httpmime 4.5.10
+	- entityculling 1.6.1-mc1.19.2
+	- equipmentcompare 1.3.1
+	- essential-container 1.0.0
+	   \-- essential-loader 1.0.0
+	- explosiveenhancement 1.1.0-1.19.2
+	- extended_drawers 1.4.0+mc.1.19.2
+	   |-- graphlib 0.3.6+1.19.2
+	   \-- mconfig 1.2.0+mc.1.19-rc1
+	        \-- de_poiu_apron_apron 2.1.1
+	- extrasounds 2.3.1+1.19.2-1.19.1
+	   \-- soundcategories 1.2.4+1.19
+	- fabric-api 0.76.0+1.19.2
+	   |-- fabric-api-base 0.4.15+8f4e8eb390
+	   |-- fabric-api-lookup-api-v1 1.6.14+93d8cb8290
+	   |-- fabric-biome-api-v1 9.1.1+16f1e31390
+	   |-- fabric-block-api-v1 1.0.2+e415d50e90
+	   |-- fabric-blockrenderlayer-v1 1.1.25+cafc6e8e90
+	   |-- fabric-client-tags-api-v1 1.0.5+b35fea8390
+	   |-- fabric-command-api-v1 1.2.16+f71b366f90
+	   |-- fabric-command-api-v2 2.2.1+413cbbc790
+	   |-- fabric-commands-v0 0.2.33+df3654b390
+	   |-- fabric-containers-v0 0.1.41+df3654b390
+	   |-- fabric-content-registries-v0 3.5.2+7c6cd14d90
+	   |-- fabric-convention-tags-v1 1.3.0+4bc6e26290
+	   |-- fabric-crash-report-info-v1 0.2.8+aeb40ebe90
+	   |-- fabric-data-generation-api-v1 5.3.8+413cbbc790
+	   |-- fabric-dimensions-v1 2.1.35+0d0f210290
+	   |-- fabric-entity-events-v1 1.5.4+9244241690
+	   |-- fabric-events-interaction-v0 0.4.34+562bff6e90
+	   |-- fabric-events-lifecycle-v0 0.2.36+df3654b390
+	   |-- fabric-game-rule-api-v1 1.0.24+b6b6abb490
+	   |-- fabric-item-api-v1 1.6.6+b7d1888890
+	   |-- fabric-item-groups-v0 0.3.39+9244241690
+	   |-- fabric-key-binding-api-v1 1.0.25+5c4fce2890
+	   |-- fabric-keybindings-v0 0.2.23+df3654b390
+	   |-- fabric-lifecycle-events-v1 2.2.4+1b46dc7890
+	   |-- fabric-loot-api-v2 1.1.13+83a8659290
+	   |-- fabric-loot-tables-v1 1.1.16+9e7660c690
+	   |-- fabric-message-api-v1 5.0.7+93d8cb8290
+	   |-- fabric-mining-level-api-v1 2.1.24+33fbc73890
+	   |-- fabric-models-v0 0.3.21+c6af733c90
+	   |-- fabric-networking-api-v1 1.2.11+10eb22f490
+	   |-- fabric-networking-v0 0.3.28+df3654b390
+	   |-- fabric-object-builder-api-v1 4.2.2+d8ef690890
+	   |-- fabric-particles-v1 1.0.14+4d0d570390
+	   |-- fabric-recipe-api-v1 1.0.1+413cbbc790
+	   |-- fabric-registry-sync-v0 0.9.32+9244241690
+	   |-- fabric-renderer-api-v1 1.2.1+1adbf27790
+	   |-- fabric-renderer-indigo 0.8.0+1adbf27790
+	   |-- fabric-renderer-registries-v1 3.2.24+df3654b390
+	   |-- fabric-rendering-data-attachment-v1 0.3.19+6e0787e690
+	   |-- fabric-rendering-fluids-v1 3.0.11+4d0d570390
+	   |-- fabric-rendering-v0 1.1.27+df3654b390
+	   |-- fabric-rendering-v1 1.12.1+d8ef690890
+	   |-- fabric-resource-conditions-api-v1 2.1.2+aae9039d90
+	   |-- fabric-resource-loader-v0 0.8.4+edbdcddb90
+	   |-- fabric-screen-api-v1 1.0.32+4d0d570390
+	   |-- fabric-screen-handler-api-v1 1.3.7+1cc24b1b90
+	   |-- fabric-sound-api-v1 1.0.2+c4f28df590
+	   |-- fabric-textures-v0 1.0.24+aeb40ebe90
+	   |-- fabric-transfer-api-v1 2.1.6+413cbbc790
+	   \-- fabric-transitive-access-wideners-v1 1.3.3+08b73de490
+	- fabric-language-kotlin 1.9.4+kotlin.1.8.21
+	   |-- org_jetbrains_kotlin_kotlin-reflect 1.8.21
+	   |-- org_jetbrains_kotlin_kotlin-stdlib 1.8.21
+	   |-- org_jetbrains_kotlin_kotlin-stdlib-jdk7 1.8.21
+	   |-- org_jetbrains_kotlin_kotlin-stdlib-jdk8 1.8.21
+	   |-- org_jetbrains_kotlinx_atomicfu-jvm 0.20.2
+	   |-- org_jetbrains_kotlinx_kotlinx-coroutines-core-jvm 1.6.4
+	   |-- org_jetbrains_kotlinx_kotlinx-coroutines-jdk8 1.6.4
+	   |-- org_jetbrains_kotlinx_kotlinx-datetime-jvm 0.4.0
+	   |-- org_jetbrains_kotlinx_kotlinx-serialization-cbor-jvm 1.5.0
+	   |-- org_jetbrains_kotlinx_kotlinx-serialization-core-jvm 1.5.0
+	   \-- org_jetbrains_kotlinx_kotlinx-serialization-json-jvm 1.5.0
+	- fabricloader 0.14.21
+	- fabricshieldlib 1.7-1.19.2
+	   \-- mm 2.3
+	- fallingleaves 1.13.0+1.19.2
+	- fastload 3.4.0
+	   |-- conditional-mixin 0.3.2
+	   |-- fastload-119-0-1-2-compat 3.4.0
+	   |-- fastload-1193-compat 3.4.0
+	   |-- fastload-1194-compat 3.4.0
+	   \-- fastload_fapi_forward 1.0.2
+	- fatxporbs 2.0.1
+	- ferritecore 5.0.3
+	- forgeconfigapiport 4.2.11
+	- forgero 0.10.9+1.19.2
+	   |-- forgero-common 0.10.9+1.19.2
+	   |-- forgero-compat 0.10.9+1.19.2
+	   |-- forgero-core 0.10.9+1.19.2
+	   |-- forgero-extended 0.10.9+1.19.2
+	   |-- forgero-fabric-compat 0.10.9+1.19.2
+	   |-- forgero-fabric-core 0.10.9+1.19.2
+	   |    \-- advanced_runtime_resource_pack 0.6.4
+	   |-- forgero-structures 0.10.9+1.19.2
+	   \-- forgero-vanilla 0.10.9+1.19.2
+	- forgottengraves 1.19.2-3.0.5
+	- frozenlib 1.2.2-Fabric+1.19.2
+	   \-- blue_endless_jankson 1.2.2
+	- fwaystones 3.0.7+mc1.19.2
+	- geckolib3 3.1.40
+	   \-- com_eliotlash_mclib_mclib 20
+	- glow_ink_plus 1.2.0
+	- goml 1.6.4+1.19.2
+	   |-- cardinal-components-base 5.0.2
+	   |-- cardinal-components-world 5.0.2
+	   |-- common-protection-api 1.0.0
+	   |-- fabric-permissions-api-v0 0.2-SNAPSHOT
+	   |-- hologram-api 0.2.2+1.19
+	   |-- placeholder-api 2.0.0-pre.1+1.19.2
+	   |-- playerabilitylib 1.6.0
+	   |-- polymer 0.2.25+1.19.2
+	   |    |-- packet_tweaker 0.3.0+1.18.2
+	   |    \-- polymer-registry-sync-manipulator 0.0.3+1.19.2
+	   |-- rtree-3i-lite-fabric 0.3.0
+	   |-- server_translations_api 1.4.18+1.19.2
+	   |    \-- packet_tweaker 0.3.0+1.18.2
+	   \-- sgui 1.1.5+1.19.1
+	- goodall 1.2.0
+	- gravelminer 13.0.0
+	- grindstonesharpertools 3.1
+	- guarding 1.19.2+2.2.0
+	- handcrafted 2.0.6
+	- hard-hat-steve 1.1
+	   \-- reach-entity-attributes 2.3.0
+	- hardcorerevival 9.0.2
+	- helditemtooltips 4.0.0
+	- holdthatchunk 2.0.1
+	- horsebuff 2.0.1
+	- iammusicplayer 3.19.9
+	- icarus 1.14
+	- iceberg 1.0.46
+	- idwtialsimmoedm 0.2.0+1.19
+	- immersive_aircraft 0.4.2+1.19.2
+	- immersive_armors 1.5.5+1.19.2
+	- impactfulweather 4.0.5
+	- indium 1.0.9+mc1.19.2
+	- interactic 0.1.11+1.19
+	- inventoryprofilesnext 1.10.2
+	- inventorytotem 3.0
+	- iris 1.6.2
+	   |-- io_github_douira_glsl-transformer 2.0.0-pre13
+	   |-- org_anarres_jcpp 1.4.14
+	   \-- org_antlr_antlr4-runtime 4.11.1
+	- itemswapper 0.4.0-mc1.19.2
+	- jade 8.7.3
+	- jadeaddons 3.1.0
+	- jamlib 0.6.0+1.19
+	- java 17
+	- jingle 1.0.1
+	- journeymap 5.9.7
+	   \-- journeymap-api-fabric 1.19.1-1.9-fabric-SNAPSHOT
+	- kaffees_dual_ride 1.1.0
+	- kiwi 8.3.3
+	- languagereload 1.5.6+1.19.2
+	- lazydfu 0.1.3
+	- leavesbegone 4.0.1
+	- lexicon 1.4.2a
+	- libipn 3.0.1
+	- lithium 0.11.1
+	- lunaslimes 1.6-1.19.2
+	- mchalo 1.1.8
+	- megaparrot 1.0.7-1.19.2
+	- memoryleakfix 1.0.0
+	   \-- com_github_llamalad7_mixinextras 0.2.0-beta.6
+	- midnightlib 1.0.0
+	- minecarttweaks 1.7
+	- minecraft 1.19.2
+	- mixin-conflict-helper 1.2.0
+	- mixintrace 1.1.1+1.17
+	- moblassos 4.0.0
+	   \-- extensibleenums 4.0.0
+	- modern_industrialization 1.6.8
+	   |-- magna 1.8.0-1.19
+	   |    \-- omega-config 1.0.8
+	   |-- noindium 1.1.0+1.19
+	   \-- playerabilitylib 1.6.0
+	- modmenu 4.2.0-beta.2
+	- moonlight 1.19.2-2.2.34
+	- mythicmetals 0.17.3+1.19.2
+	   |-- additionalentityattributes 1.2.0+1.19
+	   |-- cardinal-components-base 5.0.2
+	   |-- cardinal-components-entity 5.0.2
+	   \-- reach-entity-attributes 2.3.0
+	- naturalist 3.0.2
+	- nbtcrafting 2.2.3+mc1.19
+	- netherchested 4.0.4
+	- notenoughanimations 1.6.2
+	- nyfsquiver Fabric-0.5.1-1.19.2
+	- origins 1.7.1
+	   |-- apoli 2.6.1
+	   |    |-- calio 1.7.0
+	   |    \-- playerabilitylib 1.6.0
+	   \-- reach-entity-attributes 2.3.0
+	- origins-classes 1.4.0
+	- otyacraftengine 3.2.0
+	- owo 0.9.3+1.19
+	- oxidized 1.7.2
+	- paperdoll 4.0.0
+	- patchouli 1.19.2-77-FABRIC
+	   \-- fiber 0.23.0-2
+	- paxi 1.19.2-Fabric-3.0.1
+	- pfm 1.1.1
+	- pickupnotifier 4.2.4
+	- piercingpaxels 1.0.7
+	- ping-wheel 1.3.0
+	- placementpog 1.2.0
+	- player-animator 1.0.2
+	- plentyplates 4.0.0
+	- polymorph 0.46.1+1.19.2
+	   \-- spectrelib 0.11.0+1.19
+	- portable_tables 2.2
+	- portablehole 4.0.0
+	- prefab 4.2.4
+	- presencefootsteps 1.6.4
+	   \-- kirin 1.11.1
+	- puzzleslib 4.4.0
+	   |-- cardinal-components-base 5.0.2
+	   |-- cardinal-components-block 5.0.2
+	   |-- cardinal-components-chunk 5.0.2
+	   |-- cardinal-components-entity 5.0.2
+	   \-- cardinal-components-world 5.0.2
+	- quartzelv 2.1.5+1.19
+	- rare-ice 0.5.0
+	- reeses-sodium-options 1.4.9+mc1.19.2-build.67
+	- replantingcrops 5.1
+	- resourcefulconfig 1.0.20
+	- resourcefullib 1.1.24
+	- rottencreatures 1.0.1
+	   \-- reach-entity-attributes 2.3.0
+	- scaffoldingdropsnearby 3.0
+	- scannable 1.7.7+dc5ea09
+	   \-- team_reborn_energy 2.3.0
+	- scout 1.1.2
+	- serversleep_mr 1-datapack
+	- sfcr 1.7.2-1.19.2
+	- simply_houses 1.1.2-1.19
+	- simplyswords 1.43.0-1.19.2
+	- skylorlib 1.5.1
+	- slotcycler 4.0.3
+	- smoothboot 1.19-1.7.1
+	- sodium 0.4.4+build.18
+	   \-- org_joml_joml 1.10.4
+	- sodium-extra 0.4.16+mc1.19.2-build.90
+	   \-- caffeineconfig 1.0.0+1.17
+	- spiderstpo 1.19.2-2.0.3
+	- spikyspikes 4.0.8
+	- splashfox 1.1.0
+	- spoornpacks 4.4-1.19.3
+	   |-- com_fasterxml_jackson_core_jackson-annotations 2.13.1
+	   |-- com_fasterxml_jackson_core_jackson-core 2.13.1
+	   \-- com_fasterxml_jackson_core_jackson-databind 2.13.1
+	- stack-to-nearby-chests 0.3.0
+	   \-- libgui 6.3.0+1.19
+	        |-- jankson 4.1.1+j1.2.1
+	        \-- libninepatch 1.1.0
+	- starlight 1.1.1+fabric.ae22326
+	- stendhal 1.3.4-1.19
+	- stylisheffects 4.3.4
+	- subterrestrial 2.0.0
+	- switcheroo 1.0.9
+	- t_and_t 1.10
+	- terralith 2.3.8
+	- theprinter 1.1.0+1.19
+	- things 0.3.0+1.19
+	   \-- reach-entity-attributes 2.3.0
+	- tinyskeletons 4.2.2
+	- toms_storage 1.5.7
+	- toomanybinds 0.3.3+1.19
+	   \-- toomanybinds-compat-1-19 0.3.3
+	        \-- toomanybinds-compat-1-18-2 0.3.3
+	             \-- toomanybinds-compat-1-17 0.3.3
+	                  \-- toomanybinds-compat-1-16 0.3.3
+	                       \-- toomanybinds-core 0.3.3
+	- totw_additions 1.2.3
+	- trashslot 12.0.2
+	- travelersbackpack 1.19.2-8.2.22
+	   \-- reach-entity-attributes 2.3.0
+	- travelerstitles 1.19.2-Fabric-3.1.0
+	- trinkets 3.4.2
+	- universalbonemeal 4.2.0
+	- vanilla-notebook 2.2.0
+	- vanityslots 1.2.8
+	- varietyaquatic 1.0.4.2
+	- vc_gliders 1.0.2
+	   |-- cardinal-components-base 5.0.2
+	   |-- cardinal-components-entity 5.0.2
+	   \-- palladiumcore 1.19.2-1.2.3.4
+	- villagerdeathmessages 3.1
+	- visuality 0.5.6
+	- voicechat 1.19.2-2.4.8
+	- walllanterns 1.4.0-1.19
+	- wandering_collector 1.1.3+mc1.19
+	   |-- coat 1.0.0-beta.18+mc22w17a
+	   |-- tweed4_annotated 1.3.1+mc22w17a
+	   |-- tweed4_base 1.6.0+mc22w17a
+	   |-- tweed4_data 1.2.1+mc22w17a
+	   |-- tweed4_data_hjson 1.1.1+mc22w17a
+	   |-- tweed4_tailor_coat 1.1.3+mc22w17a
+	   \-- tweed4_tailor_screen 1.1.1+mc22w17a
+	- waystone_towers 1.0.8
+	- weaponmaster 1-19
+	- wilderwild 2.0.2-Fabric+1.19.2
+	   \-- caffeineconfig 1.0.0+1.17
+	- wso16 1.1
+	- wunderreich 3.0.18
+	- yet-another-config-lib 2.2.0-for-1.19.2
+	- yungsapi 1.19.2-Fabric-3.8.9
+	   \-- org_javassist_javassist 3.28.0-GA
+	- yungsbridges 1.19.2-Fabric-3.1.0
+	- yungsextras 1.19.2-Fabric-3.1.0
+[16:05:56] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=file:/C:/Users/asseb/AppData/Roaming/PrismLauncher/libraries/net/fabricmc/sponge-mixin/0.12.5+mixin.0.8.5/sponge-mixin-0.12.5+mixin.0.8.5.jar Service=Knot/Fabric Env=CLIENT
+[16:05:56] [main/INFO]: Compatibility level set to JAVA_17
+[16:05:56] [main/WARN]: Reference map 'dummmmmmy-fabric-refmap.json' for dummmmmmy.mixins.json could not be read. If this is a development environment you can ignore this message
+[16:05:56] [main/WARN]: Reference map 'Fastload-1.19.4-Extension-refmap.json' for fastload-1194-compat.mixins.json could not be read. If this is a development environment you can ignore this message
+[16:05:56] [main/WARN]: Reference map '(Fabric)GlowInkPlus-1.19.x-refmap.json' for glow_ink_plus.mixins.json could not be read. If this is a development environment you can ignore this message
+[16:05:56] [main/INFO]: Loaded configuration file for Lithium: 114 options available, 2 override(s) found
+[16:05:56] [main/WARN]: Reference map 'simplyswords-common-refmap.json' for simplyswords-common.mixins.json could not be read. If this is a development environment you can ignore this message
+[16:05:56] [main/INFO]: Loaded configuration file for Sodium: 29 options available, 1 override(s) found
+[16:05:56] [main/INFO]: Loaded configuration file for Sodium Extra: 28 options available, 0 override(s) found
+[16:05:56] [main/WARN]: Reference map 'yungsextras.refmap.json' for yungsextras.mixins.json could not be read. If this is a development environment you can ignore this message
+[16:05:56] [main/WARN]: Reference map 'yungsextras.refmap.json' for yungsextras_fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[16:05:57] [main/WARN]: Error loading class: eu/midnightdust/midnightcontrols/client/controller/InputHandlers (java.lang.ClassNotFoundException: eu/midnightdust/midnightcontrols/client/controller/InputHandlers)
+[16:05:57] [main/INFO]: CameraOverhaul: Using modern mixin 'mirsario.cameraoverhaul.fabric.mixins.modern.CameraMixin'.
+[16:05:57] [main/INFO]: CameraOverhaul: Using modern mixin 'mirsario.cameraoverhaul.fabric.mixins.modern.GameRendererMixin'.
+[16:05:57] [main/INFO]: CameraOverhaul: Skipping legacy mixin 'mirsario.cameraoverhaul.fabric.mixins.legacy.LegacyCameraMixin'.
+[16:05:57] [main/WARN]: Error loading class: mezz/jei/library/load/PluginCaller (java.lang.ClassNotFoundException: mezz/jei/library/load/PluginCaller)
+[16:05:58] [main/WARN]: Error loading class: appeng/entity/TinyTNTPrimedEntity (java.lang.ClassNotFoundException: appeng/entity/TinyTNTPrimedEntity)
+[16:05:58] [main/WARN]: Error loading class: vazkii/botania/common/entity/EntityManaBurst (java.lang.ClassNotFoundException: vazkii/botania/common/entity/EntityManaBurst)
+[16:05:58] [main/WARN]: Error loading class: vazkii/botania/common/item/ItemLaputaShard (java.lang.ClassNotFoundException: vazkii/botania/common/item/ItemLaputaShard)
+[16:05:58] [main/WARN]: @Mixin target vazkii.botania.common.item.ItemLaputaShard was not found goml.mixins.json:compat.BotaniaItemLaputaShardMixin from mod goml
+[16:05:58] [main/WARN]: Force-disabling mixin 'alloc.blockstate.StateMixin' as rule 'mixin.alloc.blockstate' (added by mods [ferritecore]) disables it and children
+[16:05:58] [main/WARN]: Force-disabling mixin 'features.sky.MixinWorldRenderer' as rule 'mixin.features.sky' (added by mods [iris]) disables it and children
+[16:05:58] [main/INFO]: [MemoryLeakFix] Will be applying 4 memory leak fixes!
+[16:05:58] [main/INFO]: [MemoryLeakFix] Currently enabled memory leak fixes: [targetEntityLeak, entityMemoriesLeak, biomeTemperatureLeak, hugeScreenshotLeak]
+[16:05:59] [main/WARN]: Error loading class: org/jetbrains/annotations/ApiStatus$Internal (java.lang.ClassNotFoundException: org/jetbrains/annotations/ApiStatus$Internal)
+[16:05:59] [main/WARN]: Error loading class: org/jetbrains/annotations/ApiStatus$Internal (java.lang.ClassNotFoundException: org/jetbrains/annotations/ApiStatus$Internal)
+[16:05:59] [main/INFO]: I used the json to destroy the json
+[16:06:00] [main/INFO]: Starting Essential v1.2.1.1 (#0446b7ab4) [stable]
+[16:06:00] [main/INFO]: Java: Java HotSpot(TM) 64-Bit Server VM (v17.0.5) by Oracle Corporation (Oracle Corporation)
+[16:06:00] [main/INFO]: Java Path: C:\Program Files\Java\jdk-17.0.5\bin
+[16:06:00] [main/INFO]: Java Info: mixed mode, sharing
+[16:06:00] [main/INFO]: JVM Arguments: 
+  - -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump
+  - -Xms512m
+  - -Xmx8000m
+  - -Duser.language=en
+  - -Djava.library.path=C:/Users/asseb/AppData/Roaming/PrismLauncher/instances/Modrinth Tech Rat(1)/natives
+[16:06:00] [main/INFO]: OS: Windows 11 (v10.0) (Arch: amd64)
+[16:06:01] [main/INFO]: Smooth Boot config initialized
+[16:06:01] [main/WARN]: @Final field field_22786:Ljava/util/List; in mixins.ipnext.json:MixinScreen from mod inventoryprofilesnext should be final
+[16:06:01] [main/WARN]: @Final field field_33815:Ljava/util/List; in mixins.ipnext.json:MixinScreen from mod inventoryprofilesnext should be final
+[16:06:02] [main/WARN]: Method overwrite conflict for isStencilEnabled in mixins.essential.json:client.shader.MixinFramebuffer from mod (unknown), previously written by io.github.fabricators_of_create.porting_lib.mixin.client.RenderTargetMixin. Skipping method.
+[16:06:02] [main/WARN]: Method overwrite conflict for getHotbarSlots in weaponmaster.mixins.json:ClientPlayerMixin from mod weaponmaster, previously written by com.minecraftserverzone.weaponmaster.mixin.PlayerEntityMixin. Skipping method.
+[16:06:02] [main/WARN]: Method overwrite conflict for setHotbarSlot in weaponmaster.mixins.json:ClientPlayerMixin from mod weaponmaster, previously written by com.minecraftserverzone.weaponmaster.mixin.PlayerEntityMixin. Skipping method.
+[16:06:02] [main/WARN]: Method overwrite conflict for getBlackList in weaponmaster.mixins.json:ClientPlayerMixin from mod weaponmaster, previously written by com.minecraftserverzone.weaponmaster.mixin.PlayerEntityMixin. Skipping method.
+[16:06:02] [main/WARN]: Method overwrite conflict for setBlackList in weaponmaster.mixins.json:ClientPlayerMixin from mod weaponmaster, previously written by com.minecraftserverzone.weaponmaster.mixin.PlayerEntityMixin. Skipping method.
+[16:06:02] [main/WARN]: Method overwrite conflict for getToggleSlot in weaponmaster.mixins.json:ClientPlayerMixin from mod weaponmaster, previously written by com.minecraftserverzone.weaponmaster.mixin.PlayerEntityMixin. Skipping method.
+[16:06:02] [main/WARN]: Method overwrite conflict for setToggleSlot in weaponmaster.mixins.json:ClientPlayerMixin from mod weaponmaster, previously written by com.minecraftserverzone.weaponmaster.mixin.PlayerEntityMixin. Skipping method.
+[16:06:02] [main/WARN]: Method overwrite conflict for getSelectedSlot in weaponmaster.mixins.json:ClientPlayerMixin from mod weaponmaster, previously written by com.minecraftserverzone.weaponmaster.mixin.PlayerEntityMixin. Skipping method.
+[16:06:02] [main/WARN]: Method overwrite conflict for setSelectedSlot in weaponmaster.mixins.json:ClientPlayerMixin from mod weaponmaster, previously written by com.minecraftserverzone.weaponmaster.mixin.PlayerEntityMixin. Skipping method.
+[16:06:04] [main/INFO]: [bclib] Added Config bclib.generator to auto sync (file hash)
+[16:06:04] [main/INFO]: [bclib] Added Config bclib.main to auto sync (content diff)
+[16:06:04] [main/INFO]: [bclib] Added Config bclib.recipes to auto sync (file hash)
+[16:06:04] [main/INFO]: [bclib] Added Config bclib.biomes to auto sync (file hash)
+[16:06:04] [main/WARN]: Error loading class: org/spongepowered/asm/synthetic/args/Args$8 (java.lang.ClassNotFoundException: org/spongepowered/asm/synthetic/args/Args$8)
+org.objectweb.asm.tree.analysis.AnalyzerException: Error at instruction 114: Cannot invoke "org.spongepowered.asm.mixin.transformer.ClassInfo.hasSuperClass(org.spongepowered.asm.mixin.transformer.ClassInfo)" because the return value of "org.spongepowered.asm.mixin.transformer.ClassInfo.forType(org.objectweb.asm.Type, org.spongepowered.asm.mixin.transformer.ClassInfo$TypeLookup)" is null
+	at org.objectweb.asm.tree.analysis.Analyzer.analyze(Analyzer.java:273)
+	at org.spongepowered.asm.util.Locals.generateLocalVariableTable(Locals.java:859)
+	at org.spongepowered.asm.util.Locals.getGeneratedLocalVariableTable(Locals.java:828)
+	at org.spongepowered.asm.util.Locals.getLocalVariableAt(Locals.java:782)
+	at org.spongepowered.asm.util.Locals.getLocalVariableAt(Locals.java:752)
+	at org.spongepowered.asm.util.Locals.getLocalsAt(Locals.java:440)
+	at org.spongepowered.asm.util.Locals.getLocalsAt(Locals.java:336)
+	at org.spongepowered.asm.mixin.injection.callback.CallbackInjector.preInject(CallbackInjector.java:479)
+	at org.spongepowered.asm.mixin.injection.code.Injector.preInject(Injector.java:258)
+	at org.spongepowered.asm.mixin.injection.struct.InjectionInfo.preInject(InjectionInfo.java:436)
+	at org.spongepowered.asm.mixin.transformer.MixinTargetContext.applyInjections(MixinTargetContext.java:1370)
+	at org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.applyInjections(MixinApplicatorStandard.java:1062)
+	at org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.applyMixin(MixinApplicatorStandard.java:402)
+	at org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.apply(MixinApplicatorStandard.java:327)
+	at org.spongepowered.asm.mixin.transformer.TargetClassContext.apply(TargetClassContext.java:421)
+	at org.spongepowered.asm.mixin.transformer.TargetClassContext.applyMixins(TargetClassContext.java:403)
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.applyMixins(MixinProcessor.java:363)
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClass(MixinTransformer.java:234)
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClassBytes(MixinTransformer.java:202)
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.getPostMixinClassByteArray(KnotClassDelegate.java:422)
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.tryLoadClass(KnotClassDelegate.java:323)
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.loadClass(KnotClassDelegate.java:218)
+	at net.fabricmc.loader.impl.launch.knot.KnotClassLoader.loadClass(KnotClassLoader.java:112)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:520)
+	at net.minecraft.class_5872.<clinit>(class_5872.java:9)
+	at net.minecraft.class_5871.method_33968(class_5871.java:20)
+	at com.mojang.serialization.codecs.RecordCodecBuilder.mapCodec(RecordCodecBuilder.java:76)
+	at net.minecraft.class_5871.<clinit>(class_5871.java:16)
+	at net.minecraft.class_2939.<clinit>(class_2939.java:32)
+	at net.minecraft.class_5463.<clinit>(class_5463.java:21)
+	at net.minecraft.class_5458.method_30572(class_5458.java:66)
+	at net.minecraft.class_5458.method_44104(class_5458.java:98)
+	at net.minecraft.class_5458.method_30566(class_5458.java:105)
+	at java.base/java.util.LinkedHashMap.forEach(LinkedHashMap.java:721)
+	at net.minecraft.class_5458.<clinit>(class_5458.java:104)
+	at net.minecraft.class_2378.<clinit>(class_2378.java:326)
+	at net.minecraft.class_2966.method_12851(class_2966.java:50)
+	at net.minecraft.client.main.Main.method_44604(Main.java:161)
+	at net.minecraft.client.main.Main.main(Main.java:51)
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:468)
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74)
+	at net.fabricmc.loader.impl.launch.knot.KnotClient.main(KnotClient.java:23)
+	at org.prismlauncher.launcher.impl.StandardLauncher.launch(StandardLauncher.java:88)
+	at org.prismlauncher.EntryPoint.listen(EntryPoint.java:126)
+	at org.prismlauncher.EntryPoint.main(EntryPoint.java:71)
+Caused by: java.lang.NullPointerException: Cannot invoke "org.spongepowered.asm.mixin.transformer.ClassInfo.hasSuperClass(org.spongepowered.asm.mixin.transformer.ClassInfo)" because the return value of "org.spongepowered.asm.mixin.transformer.ClassInfo.forType(org.objectweb.asm.Type, org.spongepowered.asm.mixin.transformer.ClassInfo$TypeLookup)" is null
+	at org.spongepowered.asm.util.asm.MixinVerifier.isAssignableFrom(MixinVerifier.java:104)
+	at org.objectweb.asm.tree.analysis.SimpleVerifier.isSubTypeOf(SimpleVerifier.java:212)
+	at org.objectweb.asm.tree.analysis.BasicVerifier.naryOperation(BasicVerifier.java:400)
+	at org.objectweb.asm.tree.analysis.BasicVerifier.naryOperation(BasicVerifier.java:44)
+	at org.objectweb.asm.tree.analysis.Frame.executeInvokeInsn(Frame.java:682)
+	at org.objectweb.asm.tree.analysis.Frame.execute(Frame.java:609)
+	at org.objectweb.asm.tree.analysis.Analyzer.analyze(Analyzer.java:165)
+	... 44 more
+[16:06:04] [main/INFO]: Instancing error handler class gg.essential.mixins.MixinErrorHandler
+[16:06:04] [main/INFO]: Instancing error handler class dev.isxander.mixinconflicthelper.ConflictErrorHandler
+[16:06:04] [main/ERROR]: Mixin apply for mod spoornpacks failed spoornpacks.mixins.json:DoorBlockAccessor from mod spoornpacks -> net.minecraft.class_2323: org.spongepowered.asm.mixin.gen.throwables.InvalidAccessorException No candidates were found matching <init>(Lnet/minecraft/class_4970$class_2251;Lnet/minecraft/class_3414;Lnet/minecraft/class_3414;)V in net/minecraft/class_2323 for spoornpacks.mixins.json:DoorBlockAccessor from mod spoornpacks->@Invoker[OBJECT_FACTORY]::create(Lnet/minecraft/class_4970$class_2251;Lnet/minecraft/class_3414;Lnet/minecraft/class_3414;)Lnet/minecraft/class_2323; [INJECT Applicator Phase -> spoornpacks.mixins.json:DoorBlockAccessor from mod spoornpacks -> Apply Accessors ->  -> Locate -> spoornpacks.mixins.json:DoorBlockAccessor from mod spoornpacks->@Invoker[OBJECT_FACTORY]::create(Lnet/minecraft/class_4970$class_2251;Lnet/minecraft/class_3414;Lnet/minecraft/class_3414;)Lnet/minecraft/class_2323;]
+org.spongepowered.asm.mixin.gen.throwables.InvalidAccessorException: No candidates were found matching <init>(Lnet/minecraft/class_4970$class_2251;Lnet/minecraft/class_3414;Lnet/minecraft/class_3414;)V in net/minecraft/class_2323 for spoornpacks.mixins.json:DoorBlockAccessor from mod spoornpacks->@Invoker[OBJECT_FACTORY]::create(Lnet/minecraft/class_4970$class_2251;Lnet/minecraft/class_3414;Lnet/minecraft/class_3414;)Lnet/minecraft/class_2323; [INJECT Applicator Phase -> spoornpacks.mixins.json:DoorBlockAccessor from mod spoornpacks -> Apply Accessors ->  -> Locate -> spoornpacks.mixins.json:DoorBlockAccessor from mod spoornpacks->@Invoker[OBJECT_FACTORY]::create(Lnet/minecraft/class_4970$class_2251;Lnet/minecraft/class_3414;Lnet/minecraft/class_3414;)Lnet/minecraft/class_2323;]
+	at org.spongepowered.asm.mixin.gen.InvokerInfo.findTargetMethod(InvokerInfo.java:120) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.gen.InvokerInfo.locate(InvokerInfo.java:103) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.transformer.MixinTargetContext.generateAccessors(MixinTargetContext.java:1411) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.applyAccessors(MixinApplicatorStandard.java:1071) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.applyMixin(MixinApplicatorStandard.java:400) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.apply(MixinApplicatorStandard.java:327) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.transformer.TargetClassContext.apply(TargetClassContext.java:421) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.transformer.TargetClassContext.applyMixins(TargetClassContext.java:403) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.applyMixins(MixinProcessor.java:363) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClass(MixinTransformer.java:234) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClassBytes(MixinTransformer.java:202) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.getPostMixinClassByteArray(KnotClassDelegate.java:422) ~[fabric-loader-0.14.21.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.tryLoadClass(KnotClassDelegate.java:323) ~[fabric-loader-0.14.21.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.loadClass(KnotClassDelegate.java:218) ~[fabric-loader-0.14.21.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassLoader.loadClass(KnotClassLoader.java:112) ~[fabric-loader-0.14.21.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:520) ~[?:?]
+	at net.minecraft.class_5872.<clinit>(class_5872.java:9) ~[client-intermediary.jar:?]
+	at net.minecraft.class_5871.method_33968(class_5871.java:20) ~[client-intermediary.jar:?]
+	at com.mojang.serialization.codecs.RecordCodecBuilder.mapCodec(RecordCodecBuilder.java:76) ~[datafixerupper-5.0.28.jar:?]
+	at net.minecraft.class_5871.<clinit>(class_5871.java:16) ~[client-intermediary.jar:?]
+	at net.minecraft.class_2939.<clinit>(class_2939.java:32) ~[client-intermediary.jar:?]
+	at net.minecraft.class_5463.<clinit>(class_5463.java:21) ~[client-intermediary.jar:?]
+	at net.minecraft.class_5458.method_30572(class_5458.java:66) ~[client-intermediary.jar:?]
+	at net.minecraft.class_5458.method_44104(class_5458.java:98) ~[client-intermediary.jar:?]
+	at net.minecraft.class_5458.method_30566(class_5458.java:105) ~[client-intermediary.jar:?]
+	at java.util.LinkedHashMap.forEach(LinkedHashMap.java:721) [?:?]
+	at net.minecraft.class_5458.<clinit>(class_5458.java:104) [client-intermediary.jar:?]
+	at net.minecraft.class_2378.<clinit>(class_2378.java:326) [client-intermediary.jar:?]
+	at net.minecraft.class_2966.method_12851(class_2966.java:50) [client-intermediary.jar:?]
+	at net.minecraft.client.main.Main.method_44604(Main.java:161) [client-intermediary.jar:?]
+	at net.minecraft.client.main.Main.main(Main.java:51) [client-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:468) [fabric-loader-0.14.21.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) [fabric-loader-0.14.21.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClient.main(KnotClient.java:23) [fabric-loader-0.14.21.jar:?]
+	at org.prismlauncher.launcher.impl.StandardLauncher.launch(StandardLauncher.java:88) [NewLaunch.jar:?]
+	at org.prismlauncher.EntryPoint.listen(EntryPoint.java:126) [NewLaunch.jar:?]
+	at org.prismlauncher.EntryPoint.main(EntryPoint.java:71) [NewLaunch.jar:?]
+[16:06:04] [main/ERROR]: Minecraft has crashed!
+net.fabricmc.loader.impl.FormattedException: java.lang.ExceptionInInitializerError
+	at net.fabricmc.loader.impl.FormattedException.ofLocalized(FormattedException.java:63) ~[fabric-loader-0.14.21.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:470) ~[fabric-loader-0.14.21.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) [fabric-loader-0.14.21.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClient.main(KnotClient.java:23) [fabric-loader-0.14.21.jar:?]
+	at org.prismlauncher.launcher.impl.StandardLauncher.launch(StandardLauncher.java:88) [NewLaunch.jar:?]
+	at org.prismlauncher.EntryPoint.listen(EntryPoint.java:126) [NewLaunch.jar:?]
+	at org.prismlauncher.EntryPoint.main(EntryPoint.java:71) [NewLaunch.jar:?]
+Caused by: java.lang.ExceptionInInitializerError
+	at net.minecraft.class_5871.method_33968(class_5871.java:20) ~[client-intermediary.jar:?]
+	at com.mojang.serialization.codecs.RecordCodecBuilder.mapCodec(RecordCodecBuilder.java:76) ~[datafixerupper-5.0.28.jar:?]
+	at net.minecraft.class_5871.<clinit>(class_5871.java:16) ~[client-intermediary.jar:?]
+	at net.minecraft.class_2939.<clinit>(class_2939.java:32) ~[client-intermediary.jar:?]
+	at net.minecraft.class_5463.<clinit>(class_5463.java:21) ~[client-intermediary.jar:?]
+	at net.minecraft.class_5458.method_30572(class_5458.java:66) ~[client-intermediary.jar:?]
+	at net.minecraft.class_5458.method_44104(class_5458.java:98) ~[client-intermediary.jar:?]
+	at net.minecraft.class_5458.method_30566(class_5458.java:105) ~[client-intermediary.jar:?]
+	at java.util.LinkedHashMap.forEach(LinkedHashMap.java:721) ~[?:?]
+	at net.minecraft.class_5458.<clinit>(class_5458.java:104) ~[client-intermediary.jar:?]
+	at net.minecraft.class_2378.<clinit>(class_2378.java:326) ~[client-intermediary.jar:?]
+	at net.minecraft.class_2966.method_12851(class_2966.java:50) ~[client-intermediary.jar:?]
+	at net.minecraft.client.main.Main.method_44604(Main.java:161) ~[minecraft-1.19.2-client.jar:?]
+	at net.minecraft.client.main.Main.main(Main.java:51) ~[minecraft-1.19.2-client.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:468) ~[fabric-loader-0.14.21.jar:?]
+	... 5 more
+Caused by: java.lang.RuntimeException: Mixin transformation of net.minecraft.class_2323 failed
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.getPostMixinClassByteArray(KnotClassDelegate.java:427) ~[fabric-loader-0.14.21.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.tryLoadClass(KnotClassDelegate.java:323) ~[fabric-loader-0.14.21.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.loadClass(KnotClassDelegate.java:218) ~[fabric-loader-0.14.21.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassLoader.loadClass(KnotClassLoader.java:112) ~[fabric-loader-0.14.21.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:520) ~[?:?]
+	at net.minecraft.class_5872.<clinit>(class_5872.java:9) ~[client-intermediary.jar:?]
+	at net.minecraft.class_5871.method_33968(class_5871.java:20) ~[client-intermediary.jar:?]
+	at com.mojang.serialization.codecs.RecordCodecBuilder.mapCodec(RecordCodecBuilder.java:76) ~[datafixerupper-5.0.28.jar:?]
+	at net.minecraft.class_5871.<clinit>(class_5871.java:16) ~[client-intermediary.jar:?]
+	at net.minecraft.class_2939.<clinit>(class_2939.java:32) ~[client-intermediary.jar:?]
+	at net.minecraft.class_5463.<clinit>(class_5463.java:21) ~[client-intermediary.jar:?]
+	at net.minecraft.class_5458.method_30572(class_5458.java:66) ~[client-intermediary.jar:?]
+	at net.minecraft.class_5458.method_44104(class_5458.java:98) ~[client-intermediary.jar:?]
+	at net.minecraft.class_5458.method_30566(class_5458.java:105) ~[client-intermediary.jar:?]
+	at java.util.LinkedHashMap.forEach(LinkedHashMap.java:721) ~[?:?]
+	at net.minecraft.class_5458.<clinit>(class_5458.java:104) ~[client-intermediary.jar:?]
+	at net.minecraft.class_2378.<clinit>(class_2378.java:326) ~[client-intermediary.jar:?]
+	at net.minecraft.class_2966.method_12851(class_2966.java:50) ~[client-intermediary.jar:?]
+	at net.minecraft.client.main.Main.method_44604(Main.java:161) ~[minecraft-1.19.2-client.jar:?]
+	at net.minecraft.client.main.Main.main(Main.java:51) ~[minecraft-1.19.2-client.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:468) ~[fabric-loader-0.14.21.jar:?]
+	... 5 more
+Caused by: org.spongepowered.asm.mixin.transformer.throwables.MixinTransformerError: An unexpected critical error was encountered
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.applyMixins(MixinProcessor.java:392) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClass(MixinTransformer.java:234) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClassBytes(MixinTransformer.java:202) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.getPostMixinClassByteArray(KnotClassDelegate.java:422) ~[fabric-loader-0.14.21.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.tryLoadClass(KnotClassDelegate.java:323) ~[fabric-loader-0.14.21.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.loadClass(KnotClassDelegate.java:218) ~[fabric-loader-0.14.21.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassLoader.loadClass(KnotClassLoader.java:112) ~[fabric-loader-0.14.21.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:520) ~[?:?]
+	at net.minecraft.class_5872.<clinit>(class_5872.java:9) ~[client-intermediary.jar:?]
+	at net.minecraft.class_5871.method_33968(class_5871.java:20) ~[client-intermediary.jar:?]
+	at com.mojang.serialization.codecs.RecordCodecBuilder.mapCodec(RecordCodecBuilder.java:76) ~[datafixerupper-5.0.28.jar:?]
+	at net.minecraft.class_5871.<clinit>(class_5871.java:16) ~[client-intermediary.jar:?]
+	at net.minecraft.class_2939.<clinit>(class_2939.java:32) ~[client-intermediary.jar:?]
+	at net.minecraft.class_5463.<clinit>(class_5463.java:21) ~[client-intermediary.jar:?]
+	at net.minecraft.class_5458.method_30572(class_5458.java:66) ~[client-intermediary.jar:?]
+	at net.minecraft.class_5458.method_44104(class_5458.java:98) ~[client-intermediary.jar:?]
+	at net.minecraft.class_5458.method_30566(class_5458.java:105) ~[client-intermediary.jar:?]
+	at java.util.LinkedHashMap.forEach(LinkedHashMap.java:721) ~[?:?]
+	at net.minecraft.class_5458.<clinit>(class_5458.java:104) ~[client-intermediary.jar:?]
+	at net.minecraft.class_2378.<clinit>(class_2378.java:326) ~[client-intermediary.jar:?]
+	at net.minecraft.class_2966.method_12851(class_2966.java:50) ~[client-intermediary.jar:?]
+	at net.minecraft.client.main.Main.method_44604(Main.java:161) ~[minecraft-1.19.2-client.jar:?]
+	at net.minecraft.client.main.Main.main(Main.java:51) ~[minecraft-1.19.2-client.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:468) ~[fabric-loader-0.14.21.jar:?]
+	... 5 more
+Caused by: org.spongepowered.asm.mixin.throwables.MixinApplyError: Mixin [spoornpacks.mixins.json:DoorBlockAccessor from mod spoornpacks] from phase [DEFAULT] in config [spoornpacks.mixins.json] FAILED during APPLY
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.handleMixinError(MixinProcessor.java:638) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.handleMixinApplyError(MixinProcessor.java:589) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.applyMixins(MixinProcessor.java:379) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClass(MixinTransformer.java:234) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClassBytes(MixinTransformer.java:202) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.getPostMixinClassByteArray(KnotClassDelegate.java:422) ~[fabric-loader-0.14.21.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.tryLoadClass(KnotClassDelegate.java:323) ~[fabric-loader-0.14.21.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.loadClass(KnotClassDelegate.java:218) ~[fabric-loader-0.14.21.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassLoader.loadClass(KnotClassLoader.java:112) ~[fabric-loader-0.14.21.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:520) ~[?:?]
+	at net.minecraft.class_5872.<clinit>(class_5872.java:9) ~[client-intermediary.jar:?]
+	at net.minecraft.class_5871.method_33968(class_5871.java:20) ~[client-intermediary.jar:?]
+	at com.mojang.serialization.codecs.RecordCodecBuilder.mapCodec(RecordCodecBuilder.java:76) ~[datafixerupper-5.0.28.jar:?]
+	at net.minecraft.class_5871.<clinit>(class_5871.java:16) ~[client-intermediary.jar:?]
+	at net.minecraft.class_2939.<clinit>(class_2939.java:32) ~[client-intermediary.jar:?]
+	at net.minecraft.class_5463.<clinit>(class_5463.java:21) ~[client-intermediary.jar:?]
+	at net.minecraft.class_5458.method_30572(class_5458.java:66) ~[client-intermediary.jar:?]
+	at net.minecraft.class_5458.method_44104(class_5458.java:98) ~[client-intermediary.jar:?]
+	at net.minecraft.class_5458.method_30566(class_5458.java:105) ~[client-intermediary.jar:?]
+	at java.util.LinkedHashMap.forEach(LinkedHashMap.java:721) ~[?:?]
+	at net.minecraft.class_5458.<clinit>(class_5458.java:104) ~[client-intermediary.jar:?]
+	at net.minecraft.class_2378.<clinit>(class_2378.java:326) ~[client-intermediary.jar:?]
+	at net.minecraft.class_2966.method_12851(class_2966.java:50) ~[client-intermediary.jar:?]
+	at net.minecraft.client.main.Main.method_44604(Main.java:161) ~[minecraft-1.19.2-client.jar:?]
+	at net.minecraft.client.main.Main.main(Main.java:51) ~[minecraft-1.19.2-client.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:468) ~[fabric-loader-0.14.21.jar:?]
+	... 5 more
+Caused by: org.spongepowered.asm.mixin.gen.throwables.InvalidAccessorException: No candidates were found matching <init>(Lnet/minecraft/class_4970$class_2251;Lnet/minecraft/class_3414;Lnet/minecraft/class_3414;)V in net/minecraft/class_2323 for spoornpacks.mixins.json:DoorBlockAccessor from mod spoornpacks->@Invoker[OBJECT_FACTORY]::create(Lnet/minecraft/class_4970$class_2251;Lnet/minecraft/class_3414;Lnet/minecraft/class_3414;)Lnet/minecraft/class_2323; [INJECT Applicator Phase -> spoornpacks.mixins.json:DoorBlockAccessor from mod spoornpacks -> Apply Accessors ->  -> Locate -> spoornpacks.mixins.json:DoorBlockAccessor from mod spoornpacks->@Invoker[OBJECT_FACTORY]::create(Lnet/minecraft/class_4970$class_2251;Lnet/minecraft/class_3414;Lnet/minecraft/class_3414;)Lnet/minecraft/class_2323;]
+	at org.spongepowered.asm.mixin.gen.InvokerInfo.findTargetMethod(InvokerInfo.java:120) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.gen.InvokerInfo.locate(InvokerInfo.java:103) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.transformer.MixinTargetContext.generateAccessors(MixinTargetContext.java:1411) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.applyAccessors(MixinApplicatorStandard.java:1071) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.applyMixin(MixinApplicatorStandard.java:400) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.apply(MixinApplicatorStandard.java:327) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.transformer.TargetClassContext.apply(TargetClassContext.java:421) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.transformer.TargetClassContext.applyMixins(TargetClassContext.java:403) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.applyMixins(MixinProcessor.java:363) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClass(MixinTransformer.java:234) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClassBytes(MixinTransformer.java:202) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.getPostMixinClassByteArray(KnotClassDelegate.java:422) ~[fabric-loader-0.14.21.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.tryLoadClass(KnotClassDelegate.java:323) ~[fabric-loader-0.14.21.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.loadClass(KnotClassDelegate.java:218) ~[fabric-loader-0.14.21.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassLoader.loadClass(KnotClassLoader.java:112) ~[fabric-loader-0.14.21.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:520) ~[?:?]
+	at net.minecraft.class_5872.<clinit>(class_5872.java:9) ~[client-intermediary.jar:?]
+	at net.minecraft.class_5871.method_33968(class_5871.java:20) ~[client-intermediary.jar:?]
+	at com.mojang.serialization.codecs.RecordCodecBuilder.mapCodec(RecordCodecBuilder.java:76) ~[datafixerupper-5.0.28.jar:?]
+	at net.minecraft.class_5871.<clinit>(class_5871.java:16) ~[client-intermediary.jar:?]
+	at net.minecraft.class_2939.<clinit>(class_2939.java:32) ~[client-intermediary.jar:?]
+	at net.minecraft.class_5463.<clinit>(class_5463.java:21) ~[client-intermediary.jar:?]
+	at net.minecraft.class_5458.method_30572(class_5458.java:66) ~[client-intermediary.jar:?]
+	at net.minecraft.class_5458.method_44104(class_5458.java:98) ~[client-intermediary.jar:?]
+	at net.minecraft.class_5458.method_30566(class_5458.java:105) ~[client-intermediary.jar:?]
+	at java.util.LinkedHashMap.forEach(LinkedHashMap.java:721) ~[?:?]
+	at net.minecraft.class_5458.<clinit>(class_5458.java:104) ~[client-intermediary.jar:?]
+	at net.minecraft.class_2378.<clinit>(class_2378.java:326) ~[client-intermediary.jar:?]
+	at net.minecraft.class_2966.method_12851(class_2966.java:50) ~[client-intermediary.jar:?]
+	at net.minecraft.client.main.Main.method_44604(Main.java:161) ~[minecraft-1.19.2-client.jar:?]
+	at net.minecraft.client.main.Main.main(Main.java:51) ~[minecraft-1.19.2-client.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:468) ~[fabric-loader-0.14.21.jar:?]
+	... 5 more
+Process exited with code 1.
