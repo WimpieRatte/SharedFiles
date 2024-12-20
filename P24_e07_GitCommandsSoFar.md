@@ -10,6 +10,7 @@ sudo apt install git
 #### General lookups:
 ```shell
 git ls-tree -r <branch name> #show files tracked in the repo for this branch
+git branch --help #to get help on something, type --help at the end
 ```
 #### Git user config:
 - This info is used for each commit
@@ -83,14 +84,16 @@ git branch -d <name of branch> #deletes the branch (e.g: do it after a merge)
 	
 #Clone repo to local:
 git clone <URL> #Creates a subfolder, does a git init in it and loads the URL repo to that subfolder. (Will prompt credentials when private repo.)
+#OR
+#Link local repo to GitHub repo: (NB: Must have the same name)
+git remote add origin <URL> #set a remote reference and call it "origin" (the new source of truth)
+
+#how to see the URL afterwards:
+git remote show origin
 
 #Push local repo to GitHub (already cloned from GitHub)
 git push #Will definitely prompt for GitHub credentials, if not prompted yet
 
-#Link local repo to GitHub repo: (NB: Must have the same name)
-git remote add origin <URL> #set remote origin (the new source of truth)
-	#how to see the URL afterwards:
-	git remote show origin
 git branch -M <branchname> #set default branch
 git pull --rebase origin <branchname> #merges the local and central repo
 	#when conflicts needed resolving, make the changes, then:
@@ -102,5 +105,22 @@ git push -u origin <branchname> #push branch to remote
 	# When pushing a new branch:
 	git push --set-upstream origin <branchname>
 
+#list all local branches:
+git branch
+#list all remote branches:
+git ls-remote #doesn't need a "git fetch" first
+#list all branches: (locally and remote)
+git branch -a #needs a "git fetch" first for the remote ones to be up to date
+
 #get all remote branches into local:
 for branch in `git branch -r | cut -d '/' -f2-` ; do git checkout $branch && git pull origin $branch ; done
+
+#get specific branch into local:
+git pull origin <branchname>
+git checkout <branchname> #from here on, it will show up with "git branch"
+
+git fetch #nb before doing a diff
+git diff origin/<branchname> #check differences for the branch
+git merge origin/<branchname> #merges with the main from origin
+git pull #combines fetch and merge for current branch
+git revert <id> #reverts to the applicable gitid
